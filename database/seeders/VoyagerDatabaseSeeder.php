@@ -20,9 +20,9 @@ class VoyagerDatabaseSeeder extends Seeder
             MenuItemsTableSeeder::class,
             RolesTableSeeder::class,
             PermissionsTableSeeder::class,
-            PermissionRoleTableSeeder::class,
-            SettingsTableSeeder::class,
 
+            SettingsTableSeeder::class,
+            CompaniesTableSeeder::class,
             CategoriesTableSeeder::class,
             UsersTableSeeder::class,
             PostsTableSeeder::class,
